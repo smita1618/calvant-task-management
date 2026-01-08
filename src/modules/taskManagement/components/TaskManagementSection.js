@@ -375,7 +375,7 @@ export default function TaskManagement({ riskFormData = {} }) {
         ← Back to Dashboard{" "}
       </button>
     <div style={{ padding: "30px", maxWidth: "1000px", margin: "auto" }}>
-      <h2 style={{ textAlign: "center",fontWeight: 500,color: "#000" }}></h2>
+      <h1 style={{ textAlign: "center",fontWeight: 500,color: "#000", fontSize: "30px" }}>Manage your tasks</h1>
       <p
         style={{
           textAlign: "center",

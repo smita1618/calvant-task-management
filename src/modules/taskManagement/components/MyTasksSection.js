@@ -240,7 +240,7 @@ const MyTasks = () => {
 
   return (
     <>
-      {/* <button
+      <button
         style={{
           position: "sticky",
           top: "0",
@@ -261,12 +261,12 @@ const MyTasks = () => {
         }}
         onClick={() => history.push("/task-management")}
       >
-        ← Back to Dashbo{" "}
-      </button> */}
+        ← Back to Dashboard{" "}
+      </button>
 
       <div style={pageStyle}>
         <div style={headerStyle}>
-          <h1 style={titleStyle}>My Tasks</h1>
+          <h1 style={titleStyle}>Department Task</h1>
           <p style={subtitleStyle}>View all tasks assigned to you</p>
         </div>
 

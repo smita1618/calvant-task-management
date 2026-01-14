@@ -1631,7 +1631,7 @@ s
 
 .dashboard-tile {
   background: rgba(15, 23, 42, 0.9);
-  border: 1px solid var(--color-card-border);
+ 
   border-radius: var(--radius-lg);
   padding: var(--space-24);
   cursor: pointer;
@@ -5834,3 +5834,5 @@ html {
     padding: 16px 18px;
   }
 }
+
+
